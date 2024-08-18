@@ -6,8 +6,6 @@ import java.util.Scanner;
 
 public class Ex9 {
 
-    
-
     public static double Area(double raio){
        return Math.PI * Math.pow(raio, 2);
     }
