@@ -1,5 +1,4 @@
-/** Faça um programa que receba 2 valores e retorne o 
- * maior entre eles.*/
+/** Faça um programa que receba 2 valores e retorne o maior entre eles.*/
 
 import java.util.Scanner;
  
@@ -25,7 +24,5 @@ public class Ex2{
         
         scanner.close();
     }
-
-
 
 }
