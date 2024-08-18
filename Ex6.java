@@ -1,7 +1,4 @@
-/*Imprima produto dos números de ímpares 
-de 15 a 30, usando os tipos de dados int 
-e float.
-*/
+//Imprima produto dos números de ímpares de 15 a 30, usando os tipos de dados int e float.
 public class Ex6 {
     public static void main(String[] args){
         //long produtoInt = 1;
